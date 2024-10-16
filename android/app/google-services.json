@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "560758016974",
+    "project_id": "mosque-management-d55ea",
+    "storage_bucket": "mosque-management-d55ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560758016974:android:529ce76a702b6156beb99f",
+        "android_client_info": {
+          "package_name": "com.example.mypoints"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6O12DRCjTf6shjKt3VMc1SCtRrkm9Ork"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
